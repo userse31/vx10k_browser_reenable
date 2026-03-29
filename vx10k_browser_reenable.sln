@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vx10k_browser_reenable", "vx10k_browser_reenable\vx10k_browser_reenable.vcproj", "{12E10F6A-9D60-4BB8-8EB4-EC87BA30101D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		release_2|Win32 = release_2|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E10F6A-9D60-4BB8-8EB4-EC87BA30101D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12E10F6A-9D60-4BB8-8EB4-EC87BA30101D}.Debug|Win32.Build.0 = Debug|Win32
+		{12E10F6A-9D60-4BB8-8EB4-EC87BA30101D}.release_2|Win32.ActiveCfg = release_2|Win32
+		{12E10F6A-9D60-4BB8-8EB4-EC87BA30101D}.release_2|Win32.Build.0 = release_2|Win32
+		{12E10F6A-9D60-4BB8-8EB4-EC87BA30101D}.Release|Win32.ActiveCfg = Release|Win32
+		{12E10F6A-9D60-4BB8-8EB4-EC87BA30101D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
